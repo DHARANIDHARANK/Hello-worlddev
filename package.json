@@ -1,13 +1,13 @@
 {
-  "name": "test1",
+  "name": "pearlthoughts",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dharanidharan K",
+  "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.19.2"
   }
